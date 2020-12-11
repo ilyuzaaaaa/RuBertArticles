@@ -1,0 +1,9 @@
+Mean loss: 0.24487
+Accuracy: 88.39%Matthews: 82.75%Mean loss: 0.16310
+Accuracy: 90.11%Matthews: 85.16%Mean loss: 0.10926
+Accuracy: 89.93%Matthews: 85.02%Mean loss: 0.09439
+Accuracy: 91.26%Matthews: 86.91%Mean loss: 0.05900
+Accuracy: 91.32%Matthews: 86.98%Mean loss: 0.04465
+Accuracy: 90.96%Matthews: 86.42%Mean loss: 0.02807
+Accuracy: 90.93%Matthews: 86.42%Mean loss: 0.01792
+Accuracy: 90.75%Matthews: 86.13%
